@@ -29,12 +29,6 @@ theme:
         icon: material/weather-sunny
         name: 切换至日间模式
 
-markdown_extensions:
-  # [数学公式支持]
-  # https://squidfunk.github.io/mkdocs-material/reference/math/#katex
-  - pymdownx.arithmatex:
-      generic: true
-
 extra_javascript:
   # [数学公式支持]
   # https://squidfunk.github.io/mkdocs-material/reference/math/#katex
