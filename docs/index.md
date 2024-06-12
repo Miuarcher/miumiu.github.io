@@ -1,17 +1,12 @@
-# Welcome to MkDocs
+# 欢迎
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+欢迎来到缪缪的个人网站 (^_^) .
 
-## Commands
+## 主要内容
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+* 缪缪的一些学习日常
+* 缪缪的一些碎碎念
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## 简单介绍
+   概率统计补天：一点点概统的小内容，暂时是应付期末周的作品  
+   （待修缮）
