@@ -1,5 +1,5 @@
 site_name: 缪缪的个人网站
-site_url: https://hujunkai000.github.io/miumiu.github.io/
+site_url: https://Miuarcher.github.io/miumiu.github.io/
 site_author: 缪尔赛斯
 site_description: 缪缪的个人网站
 
@@ -28,6 +28,15 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: 切换至日间模式
+
+# [点击按钮跳转至 GitHub 修改 Markdown 源文件]
+# https://squidfunk.github.io/mkdocs-material/setup/adding-a-git-repository/#code-actions
+edit_uri: edit/main/docs/
+# [top-right corner]
+# [添加 GitHub 仓库]
+# https://squidfunk.github.io/mkdocs-material/setup/adding-a-git-repository/
+repo_url: https://github.com/Miuarcher/miumiu.github.io
+repo_name: miumiu.github.io
 
 extra_javascript:
   # [数学公式支持]
