@@ -38,6 +38,12 @@ edit_uri: edit/main/docs/
 repo_url: https://github.com/Miuarcher/miumiu.github.io
 repo_name: miumiu.github.io
 
+markdown_extensions:
+  # [数学公式支持]
+  # https://squidfunk.github.io/mkdocs-material/reference/math/#katex
+  - pymdownx.arithmatex:
+      generic: true
+
 extra_javascript:
   # [数学公式支持]
   # https://squidfunk.github.io/mkdocs-material/reference/math/#katex
